@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="reto11/reto11.vcxproj" />
+  <Project Path="reto11/reto11.vcxproj" Id="ad88bbf8-c1bc-4fad-b243-4c09431afec7" />
 </Solution>
