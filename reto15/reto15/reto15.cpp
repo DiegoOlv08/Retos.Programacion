@@ -1,3 +1,7 @@
+//Diego Alejandro Olvera Lira
+//UPT Programacion Estructurada
+//Arturo Negrete
+//Lectura del archivo con la imagen del ahorcado 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
