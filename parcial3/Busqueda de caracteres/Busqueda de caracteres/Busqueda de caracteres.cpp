@@ -1,3 +1,7 @@
+//Diego Alejandro Olvera Lira
+//UPT Programacion Estructurada
+//Arturo Negrete
+//Búsqueda de caracteres 
 #include <stdio.h>
 #include <string.h>
 

@@ -1,3 +1,7 @@
+//Diego Alejandro Olvera Lira
+//UPT Programacion Estructurada
+//Arturo Negrete
+//Uso de arreglos de estructuras
 #include <stdio.h>
 #include <string.h>
 
