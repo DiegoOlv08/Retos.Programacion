@@ -3,15 +3,6 @@
 //Arturo Negrete
 //Despliegue de monitos 
 
-/*
- * Nombre:   Diego Alejandro Olvera Lira
- * Carrera:  Ingeniería en Sistemas Electrónicos
- * Escuela:  Universidad Politécnica de Tulancingo
- * Materia:  (completa aquí)
- * Trabajo:  2 - Despliega monitos sin ninguna función (todo en main)
- * Fecha:    (completa aquí)
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 
